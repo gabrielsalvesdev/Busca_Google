@@ -1,0 +1,3 @@
+zip|rar|exe|ace (rapidshare.de/files/)|(rapidshare.com/files)|(megaupload.com/) -forbidden -inactivity -found -deleted O nome do arquivo
+
+intitle:"NomeDoArquivo" filetype:(zip OR rar OR exe OR ace) site:(rapidshare.de OR rapidshare.com OR megaupload.com) -inurl:(forbidden OR deleted OR inactivity)
